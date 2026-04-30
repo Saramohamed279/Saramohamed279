@@ -1,4 +1,4 @@
-# Hi, I'm @saramohamed279 👋
+# Hi, I'm Sara Baza 👋
 
 ## 🤖 Machine Learning Engineer | 💻 Software Developer
 
